@@ -6,6 +6,11 @@ Add following to 'Project Interpreter'
 
 - Pillow
 - numpy
+- PyQRCode
+- imageio
+- pypng
+- qrtools
+
 
 ## #TODO
 
