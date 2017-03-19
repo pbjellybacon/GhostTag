@@ -1,6 +1,6 @@
 # GhostTag for Business
 
-##PyCharm setup [Quick Notes]
+## PyCharm setup [Quick Notes]
 
 Add following to 'Project Interpreter'
 
