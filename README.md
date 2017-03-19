@@ -1,6 +1,6 @@
-Setup PyCharm Project
+# Setup PyCharm Project
 
-# Quick notes
+[Quick notes]
 
 Add following to 'Project Interpreter'
 
