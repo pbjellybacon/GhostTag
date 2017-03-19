@@ -1,12 +1,15 @@
-# Setup PyCharm Project
+# GhostTag for Business
 
-[Quick notes]
+##PyCharm setup [Quick Notes]
 
 Add following to 'Project Interpreter'
 
 - Pillow
 - numpy
-- pip
-- olefile
-- setuptools
+
+## #TODO
+
+- OpenCV integration
+- Create custom markers
+- Use template matching
 
